@@ -1,2 +1,1 @@
-# blog_images
-a hoster of my blog images
+存放两个博客用到的图片资源
