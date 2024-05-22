@@ -1,6 +1,6 @@
 存放两个博客用到的图片资源
 
-图片等资源官方推荐使用git lfs，详细步骤参考官网https://git-lfs.github.com/或者gitlab的中文版本https://docs.gitlab.cn/jh/topics/git/lfs/
+图片等资源官方推荐使用git lfs，详细步骤参考官网 https://git-lfs.github.com/ 或者gitlab的中文版本 https://docs.gitlab.cn/jh/topics/git/lfs/
 
 
 简单来说有以下五步：
