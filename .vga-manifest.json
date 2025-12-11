@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-11T10:09:48.787Z",
+  "lastUpdated": "2025-12-11T11:30:04.302Z",
   "lastSyncedSha": "",
   "files": [
     {
@@ -893,83 +893,6 @@
       "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/extended_image_class_structure.png"
     },
     {
-      "name": "flutter_animate_select.png",
-      "path": "flutter/animate/flutter_animate_select.png",
-      "size": 132160,
-      "sha": "b09cb0e9618f722ea02b11e6f9212046f857fc70",
-      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/flutter/animate/flutter_animate_select.png"
-    },
-    {
-      "name": "flutter_animate_struct1.png",
-      "path": "flutter/animate/flutter_animate_struct1.png",
-      "size": 365288,
-      "sha": "329776a4e77c87168e351d0cc706dfc3f2a0343a",
-      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/flutter/animate/flutter_animate_struct1.png"
-    },
-    {
-      "name": "flutter_animate_struct2.png",
-      "path": "flutter/animate/flutter_animate_struct2.png",
-      "size": 209910,
-      "sha": "dadcea8dbc541c78d069f12c07f20f0f8a4c6942",
-      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/flutter/animate/flutter_animate_struct2.png"
-    },
-    {
-      "name": "flutter_animate_widget.png",
-      "path": "flutter/animate/flutter_animate_widget.png",
-      "size": 175981,
-      "sha": "c2396fe60b7bdbda4fcec694ded97ecd0da02607",
-      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/flutter/animate/flutter_animate_widget.png"
-    },
-    {
-      "name": "advanced_hero.gif",
-      "path": "flutter/hero/advanced_hero.gif",
-      "size": 1196910,
-      "sha": "8ebd16aa307284c9ba314d71fa348d26b5cca295",
-      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/flutter/hero/advanced_hero.gif"
-    },
-    {
-      "name": "hero-transition-2.webp",
-      "path": "flutter/hero/hero-transition-2.webp",
-      "size": 13170,
-      "sha": "f76299f19e5a2d043b500e99eb7601dae27c6f0a",
-      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/flutter/hero/hero-transition-2.webp"
-    },
-    {
-      "name": "radial-hero-animation.webp",
-      "path": "flutter/hero/radial-hero-animation.webp",
-      "size": 18614,
-      "sha": "dfb0e6c46859f18371c2b84c5388e1d94dd3d647",
-      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/flutter/hero/radial-hero-animation.webp"
-    },
-    {
-      "name": "simple_hero.gif",
-      "path": "flutter/hero/simple_hero.gif",
-      "size": 1796079,
-      "sha": "b7f54fc8fb02c911b76d75386e55fa55cf719329",
-      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/flutter/hero/simple_hero.gif"
-    },
-    {
-      "name": "flutter_paint_class_struct.png",
-      "path": "flutter/paint/flutter_paint_class_struct.png",
-      "size": 376706,
-      "sha": "65885f203baace7ce214ed79679bb4b12331710a",
-      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/flutter/paint/flutter_paint_class_struct.png"
-    },
-    {
-      "name": "power_image_class_structure.png",
-      "path": "flutter/power_image_class_structure.png",
-      "size": 542620,
-      "sha": "ec67c08fa6555a45d063165502ad57ad41c4372e",
-      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/flutter/power_image_class_structure.png"
-    },
-    {
-      "name": "power_image_structure.png",
-      "path": "flutter/power_image_structure.png",
-      "size": 112137,
-      "sha": "05950a3b6ab706d213018ca50ae7f67163845736",
-      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/flutter/power_image_structure.png"
-    },
-    {
       "name": "flutter_image_class_structure.png",
       "path": "flutter_image_class_structure.png",
       "size": 196927,
@@ -1573,10 +1496,6 @@
     "dart",
     "dart/event_loop",
     "dart_vm",
-    "flutter",
-    "flutter/animate",
-    "flutter/hero",
-    "flutter/paint",
     "flutter_run_app",
     "imissyou",
     "imissyou/covid-19-history",
