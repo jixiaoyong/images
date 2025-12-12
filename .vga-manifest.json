@@ -2,13 +2,13 @@
   "meta": {
     "version": "1.1.0",
     "generator": "vue-github-assets",
-    "lastUpdated": "2025-12-12T08:34:17.533Z",
+    "lastUpdated": "2025-12-12T08:51:26.250Z",
     "lastSyncedSha": ""
   },
   "stats": {
-    "totalCount": 222,
-    "totalSize": 166170089,
-    "formattedSize": "158.47 MB"
+    "totalCount": 225,
+    "totalSize": 166244719,
+    "formattedSize": "158.54 MB"
   },
   "files": [
     {
@@ -635,6 +635,13 @@
       "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/202212312101458.JPG"
     },
     {
+      "name": "2023-12-16-00-22-02.ico",
+      "path": "2023-12-16-00-22-02.ico",
+      "size": 14296,
+      "sha": "31c08a11c8a25fdb366954ae5239f61cc41a2f84",
+      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/2023-12-16-00-22-02.ico"
+    },
+    {
       "name": "2023-12-16-00-26-28.png",
       "path": "2023-12-16-00-26-28.png",
       "size": 8560,
@@ -899,6 +906,13 @@
       "size": 544123,
       "sha": "39a959bcae1d7125a25ea579320854baa93c5e08",
       "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/extended_image_class_structure.png"
+    },
+    {
+      "name": "favicon.ico",
+      "path": "favicon.ico",
+      "size": 6824,
+      "sha": "f24954855296a423dff90fcdee7f8f0f5dc6e7d6",
+      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/favicon.ico"
     },
     {
       "name": "flutter_animate_select.png",
@@ -1557,6 +1571,13 @@
       "size": 1010542,
       "sha": "de9c936c830dee6166ccbad840b512cc62cbf4d4",
       "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/moments/IMG_8682.JPG"
+    },
+    {
+      "name": "favicon.ico",
+      "path": "moments/favicon.ico",
+      "size": 53510,
+      "sha": "8f6cc900a959cb2691c04fa280c648470303d01e",
+      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/moments/favicon.ico"
     },
     {
       "name": "user_avatar.webp",
