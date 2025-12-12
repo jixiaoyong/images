@@ -2,13 +2,13 @@
   "meta": {
     "version": "1.1.0",
     "generator": "vue-github-assets",
-    "lastUpdated": "2025-12-12T11:14:09.890Z",
-    "lastSyncedSha": "32b1f1b8773636a2ae6dad8ffb923e08ee55955c"
+    "lastUpdated": "2025-12-12T11:14:50.811Z",
+    "lastSyncedSha": "e5b28aedbabff4bd250cde26be8159ada685af15"
   },
   "stats": {
-    "totalCount": 224,
-    "totalSize": 166050941,
-    "formattedSize": "158.36 MB"
+    "totalCount": 223,
+    "totalSize": 165997431,
+    "formattedSize": "158.31 MB"
   },
   "files": [
     {
@@ -1344,12 +1344,6 @@
       "sha": "de9c936c830dee6166ccbad840b512cc62cbf4d4"
     },
     {
-      "name": "20251212191353339.ico",
-      "path": "moments/moments/20251212191353339.ico",
-      "size": 53510,
-      "sha": "8f6cc900a959cb2691c04fa280c648470303d01e"
-    },
-    {
       "name": "user_avatar.webp",
       "path": "user_avatar.webp",
       "size": 17340,
@@ -1371,7 +1365,6 @@
     "flutter_run_app",
     "imissyou",
     "imissyou/covid-19-history",
-    "moments",
-    "moments/moments"
+    "moments"
   ]
 }
