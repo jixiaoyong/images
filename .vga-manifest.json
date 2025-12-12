@@ -2,11 +2,11 @@
   "meta": {
     "version": "1.1.0",
     "generator": "vue-github-assets",
-    "lastUpdated": "2025-12-12T09:05:44.441Z",
+    "lastUpdated": "2025-12-12T09:10:07.317Z",
     "lastSyncedSha": ""
   },
   "stats": {
-    "totalCount": 224,
+    "totalCount": 223,
     "totalSize": 166050941,
     "formattedSize": "158.36 MB"
   },
@@ -1564,13 +1564,6 @@
       "size": 1010542,
       "sha": "de9c936c830dee6166ccbad840b512cc62cbf4d4",
       "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/moments/IMG_8682.JPG"
-    },
-    {
-      "name": "favicon.ico",
-      "path": "moments/favicon.ico",
-      "size": 53510,
-      "sha": "8f6cc900a959cb2691c04fa280c648470303d01e",
-      "downloadUrl": "https://raw.githubusercontent.com/jixiaoyong/images/master/moments/favicon.ico"
     },
     {
       "name": "user_avatar.webp",
