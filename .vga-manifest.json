@@ -2,12 +2,12 @@
   "meta": {
     "version": "1.1.0",
     "generator": "vue-github-assets",
-    "lastUpdated": "2025-12-13T06:26:50.955Z",
-    "lastSyncedSha": "121d3a6cd25ae7068e21406391a34f9c89f125fd"
+    "lastUpdated": "2025-12-13T06:27:33.041Z",
+    "lastSyncedSha": "3f73c380faf68545ee290cd80049f91ab90910e3"
   },
   "stats": {
-    "totalCount": 223,
-    "totalSize": 165979623,
+    "totalCount": 222,
+    "totalSize": 165977176,
     "formattedSize": "158.29 MB"
   },
   "files": [
@@ -1328,12 +1328,6 @@
     {
       "name": "20251213141528547.jpeg",
       "path": "moments/20251213141528547.jpeg",
-      "size": 2447,
-      "sha": "65421ea88b53a4ee4d95470b911bd24905fb3b8e"
-    },
-    {
-      "name": "20251213142650971.jpeg",
-      "path": "moments/20251213142650971.jpeg",
       "size": 2447,
       "sha": "65421ea88b53a4ee4d95470b911bd24905fb3b8e"
     },
