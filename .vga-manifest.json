@@ -1,14 +1,14 @@
 {
   "meta": {
     "version": "1.1.0",
-    "generator": "vue-github-assets",
-    "lastUpdated": "2025-12-13T13:21:34.553Z",
-    "lastSyncedSha": "197a6ac30a46fb4cf840bb14f6f6b704bffc15b8"
+    "generator": "hub-editor",
+    "lastUpdated": "2025-12-28T06:42:04.089Z",
+    "lastSyncedSha": "0c84f9cbf1d9b8367a47c6a81c9413090ce3393c"
   },
   "stats": {
-    "totalCount": 221,
-    "totalSize": 165974729,
-    "formattedSize": "158.29 MB"
+    "totalCount": 220,
+    "totalSize": 165954506,
+    "formattedSize": "162064.95 KB"
   },
   "files": [
     {
@@ -546,12 +546,6 @@
       "sha": "2745d587ab4a98b2ad6bfe0e9ad0a43611ed04b2"
     },
     {
-      "name": "2023-12-16-00-22-02.ico",
-      "path": "2023-12-16-00-22-02.ico",
-      "size": 14296,
-      "sha": "31c08a11c8a25fdb366954ae5239f61cc41a2f84"
-    },
-    {
       "name": "2023-12-16-00-26-28.png",
       "path": "2023-12-16-00-26-28.png",
       "size": 8560,
@@ -778,12 +772,6 @@
       "path": "extended_image_class_structure.png",
       "size": 544123,
       "sha": "39a959bcae1d7125a25ea579320854baa93c5e08"
-    },
-    {
-      "name": "favicon.ico",
-      "path": "favicon.ico",
-      "size": 6824,
-      "sha": "f24954855296a423dff90fcdee7f8f0f5dc6e7d6"
     },
     {
       "name": "flutter_animate_select.png",
@@ -1336,14 +1324,18 @@
       "path": "user_avatar.webp",
       "size": 17340,
       "sha": "8b1f30dfa653137e2f322a2b4f63ce6c47fb561b"
+    },
+    {
+      "name": "changes.svg",
+      "path": "imissyou/changes.svg",
+      "size": 897,
+      "sha": "5ac8d30d98ebb7a73460a10386ce4e5a48e9d9f1"
     }
   ],
   "folders": [
-    "blog",
     "blog/2018-02",
     "blog/2018-04",
     "blog/android_architecture",
-    "dart",
     "dart/event_loop",
     "dart_vm",
     "flutter",
